@@ -1,3 +1,2 @@
 Pervoe sostoyanie
-Izmenenie cherez mybranch
-izmenenie2
+Izmenenie
